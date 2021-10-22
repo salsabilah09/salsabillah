@@ -31,9 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Salsabillah"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Siswa"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -43,7 +43,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "hi,i'm salsabillah."
-  descripe_l2_person: "This is a my biodata[herr](projects"
+  descripe_l2_person: "This is a my biodata[herr](projects)"
   skills:
     - name: Editing
       percentage: 80

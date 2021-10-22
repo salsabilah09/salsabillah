@@ -45,14 +45,13 @@ params:
   descripe_l1_person: "hi,i'm salsabillah."
   descripe_l2_person: "This is a my biodata[herr](projects"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
+    - name: Editing
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Fotografi
+      percentage: 85
+    - name: Design
+      percentage: 60
+
 
   # Experience
   disable_experience: false
